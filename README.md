@@ -1,65 +1,61 @@
-# Urban Safaris
+# Urban Safaris Kenya
 
-Welcome to Urban safaris kenya, your gateway to thrilling urban safaris and unforgettable adventures. Immerse yourself in diverse cultures, uncover hidden gems, and create lasting memories with Urban-Safaris.
+Discover the wild side of Nairobi with curated tours focused on wildlife, nature, and outdoor adventure. Our web app makes booking your next urban safari seamless.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Contributors](#contributors)
-- [Feedback](#feedback)
-- [License](#license)
+_**Live site:** [UrbanSafarisKenya.com](https://urbansafarisk.com)_
 
 ## Introduction
 
-Urban safaris is a travel website designed to inspire and facilitate the exploration of unique destinations. From solo journeys to family adventures and seasonal picks, Urban-Safaris offers a range of curated experiences.
+Urban Safaris Kenya showcases the abundance of animals, nature and activities in Nairobi beyond the stereotypical safari. Through our booking platform tailored for discovering Nairobi's outdoors, locals and tourists alike can easily find hidden gems and create memorable experiences across national parks, reserves, forests and more - all within city limits!
 
-## Features
+_**Read the full story:** [Blog Post](https://dev.to/kendy254/launching-urban-safaris-to-uncover-nairobis-wild-side)_
 
-- **Responsive Design:** Explore the website seamlessly on various devices.
-- **Navigation:** Easy navigation with a user-friendly menu and hamburger navigation.
-- **Hero Section:** Captivating hero section encouraging exploration and discovery.
-- **Welcome Section:** Learn about Urban-Safaris' commitment to exciting tours, safety, and luxury travel experiences.
-- **Destinations Section:** Discover handpicked destinations with enticing descriptions.
-- **Price Section:** Explore budget-friendly prices for solo travelers, family lovers, and seasonal picks.
-- **Testimonials:** Read feedback from satisfied clients sharing their exceptional experiences.
-- **Numbers Section:** Discover the impressive statistics showcasing Urban-Safaris' expertise.
-- **Footer:** Quick links, a subscription feature, and social media connections for staying updated.
+## Key Features
 
-## Installation
-
-1. Clone the repository to your local machine.
-   ```bash
-   git clone https://github.com/your-username/urban-safaris.git
-   ```
-
-2. Open the `index.html` file in your preferred web browser.
+- Tour listingsbrowse by category, location, ratings, etc
+- Tour detailsprices, reviews, FAQ, operator info 
+- User profiles and bookings
+- Payment processing
+- Operator admin dashboard 
 
 ## Usage
 
-1. Navigate through the sections using the header menu or the hamburger menu for mobile users.
-2. Explore destinations, prices, and testimonials to make informed travel decisions.
-3. Schedule your trip by clicking on the "SCHEDULE NOW!" button.
-4. Interact with the numbers section to see Urban-Safaris' achievements.
-5. Stay connected through the footer's social media links and subscribe to the newsletter.
+Both unregistered browsers and logged in users can search tours. To book a tour, create a free account. 
+
+Admin accounts are given selectively to tour operators interested in listing on our platform.
+
+**_Live demo:_ [urbansafarisk.com](https://urbansafarisk.com)**
+
+![Tour Details Page](screenshots/details.png)
+
+## Built With
+
+- HTML, CSS, JS, Webpack
+- Node.js, Express, MySQL
+- Hosted on GoDaddy Shared Hosting
+
+## Getting Started
+
+```
+# Clone repo
+git clone https://github.com/kendy254/urban-safaris-kenya
+
+# Install dependencies  
+npm install
+
+# Configure .env with DB credentials
+# Start local dev server
+npm run dev
+```
 
 ## Contributing
+We welcome contributors! See the [Contributing Guidelines](CONTRIBUTING.md) to get involved.
 
-We welcome contributions! If you find a bug or have a suggestion, please open an issue. Pull requests are also appreciated.
+## License 
+This project is licensed under MIT - see [LICENSE](LICENSE) for more.
 
-## Contributors
+## Contact
 
-- James Wanjiru
-- Kendy
+Kendy Njeri - [Email](mailto:kendy@urbansafarisk.com) , [LinkedIn](https://www.linkedin.com/in/kendy-njeri/)
 
-## Feedback
-
-Your feedback is valuable to us. If you have any questions or suggestions, feel free to reach out.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Happy Exploring with Kenya - Urban Safaris! 🌍🌟
+Let me know if you would like me to add or modify anything!
